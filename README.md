@@ -6,4 +6,8 @@ Tecnologias utilizadas:
 - HTML e CSS
 - JavaScript
 - Git e Github
+<<<<<<< HEAD
 - Figma
+=======
+- Figma
+>>>>>>> 6c923f14184837a310a6c4495850acae210ff70a
