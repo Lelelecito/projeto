@@ -39,9 +39,3 @@ Veja o projeto online:
 👉 [https://lelelecito.github.io/projeto/](https://lelelecito.github.io/projeto/)
 
 ---
-
-## 📂 Como Usar
-
-1. Clique em `Code` > `Download ZIP` ou clone o repositório:
-   ```bash
-   git clone https://github.com/lelelecito/projeto.git
